@@ -2,6 +2,7 @@
 
 ## Purpose (EN)/ Vai trò (VN) 
 (EN) Record and analyze recurring mistakes to avoid repeating them.
+
 (VN) Ghi lại và phân tích các lỗi thường gặp để tránh lặp lại trong tương lai.
 
 ## ALLOWED content (EN)/ Nội dung ĐƯỢC PHÉP (VN)
@@ -24,4 +25,5 @@ Practice → **Mistakes** → Practice.
 
 ## Notes (EN)/ Ghi chú (VN)
 (EN) This folder focuses on recurring mistakes rather than one-time errors. Each mistake should include the correct form and, if possible, a brief explanation of why it was incorrect.
+
 (VN) Thư mục này tập trung vào các lỗi lặp lại thay vì những lỗi xảy ra một lần. Mỗi lỗi nên đi kèm đáp án đúng và, nếu có thể, một giải thích ngắn về nguyên nhân.
