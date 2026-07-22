@@ -2,6 +2,7 @@
 
 ## Purpose (EN)/ Vai trò (VN) 
 (EN) Store original learning resources for Russian study.
+
 (VN) Lưu trữ tài liệu GỐC để học tập.
 
 ## ALLOWED content (EN)/ Nội dung ĐƯỢC PHÉP (VN)
@@ -19,4 +20,5 @@
 
 ## Notes (EN)/ Ghi chú (VN)
 (EN) This folder mainly stores source materials and rarely changes.
+
 (VN) Thư mục này chủ yếu lưu trữ tài liệu gốc và rất ít chỉnh sửa.
