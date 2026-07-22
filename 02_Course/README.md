@@ -2,6 +2,7 @@
 
 ## Purpose (EN)/ Vai trò (VN) 
 (EN) Study the textbook lesson by lesson.
+
 (VN) Học theo giáo trình từng bài một.
 
 ## ALLOWED content (EN)/ Nội dung ĐƯỢC PHÉP (VN)
@@ -22,4 +23,5 @@ Resources → **Course** → Practice.
 
 ## Notes (EN)/ Ghi chú (VN)
 (EN) This folder follows the structure of the textbook. Each lesson should remain independent and should not become a long-term knowledge summary.
+
 (VN) Thư mục này bám theo cấu trúc của giáo trình. Mỗi bài học nên được lưu độc lập và không nên biến thành nơi tổng hợp kiến thức lâu dài. 
