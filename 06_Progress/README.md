@@ -2,6 +2,7 @@
 
 ## Purpose (EN)/ Vai trò (VN) 
 (EN) Track learning progress and monitor long-term improvement.
+
 (VN) Theo dõi tiến độ học tập và sự tiến bộ trong dài hạn.
 
 ## ALLOWED content (EN)/ Nội dung ĐƯỢC PHÉP (VN)
@@ -23,4 +24,5 @@ Course → Practice → Knowledge → **Progress**.
 
 ## Notes (EN)/ Ghi chú (VN)
 (EN) This folder is used to measure learning progress rather than store learning content. Regular reviews help identify strengths, weaknesses, and future learning goals.
+
 (VN) Thư mục này dùng để đo lường quá trình học thay vì lưu trữ nội dung học tập. Việc đánh giá định kỳ giúp xác định điểm mạnh, điểm yếu và mục tiêu học tập tiếp theo. 
