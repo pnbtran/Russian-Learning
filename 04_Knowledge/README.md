@@ -2,6 +2,7 @@
 
 ## Purpose (EN)/ Vai trò (VN) 
 (EN) Organize and maintain long-term knowledge extracted from learning and practice.
+
 (VN) Tổ chức và lưu trữ kiến thức dài hạn được đúc kết từ quá trình học và luyện tập.
 
 ## ALLOWED content (EN)/ Nội dung ĐƯỢC PHÉP (VN)
@@ -25,4 +26,5 @@ Course → Practice → **Knowledge**.
 
 ## Notes (EN)/ Ghi chú (VN)
 (EN) This folder is the long-term knowledge base of the repository. Knowledge stored here should be well organized, reusable, and independent of any specific lesson.
+
 (VN) Đây là kho tri thức dài hạn của toàn bộ quá trình. Nội dung nên được hệ thống rõ ràng, có thể tái sử dụng và không phụ thuộc vào bất kỳ bài học cụ thể nào.
