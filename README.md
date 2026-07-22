@@ -1,7 +1,9 @@
 # 🇷🇺 Russian Learning
  🇻🇳 Sổ tay cá nhân để học tiếng Nga, thuật ngữ chuyên ngành và tiếng Nga học thuật.
+ 
  🇬🇧 Personal knowledge base for learning Russian, technical terminology, and academic communication.
- 🇷🇺 Персональная база знаний для изучения русского языка, технической терминологии и академического общения.
+ 
+  🇷🇺 Персональная база знаний для изучения русского языка, технической терминологии и академического общения.
  
 ## 📂 Repository Structure
 | Folder | Purpose (EN)/ Vai trò (VN)  | Question (EN)/ Câu hỏi (VN) |
